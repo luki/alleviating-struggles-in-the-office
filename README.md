@@ -7,7 +7,7 @@ As part of the Bachelor of Science of Computer Science, my univeristy requires a
 ## Subject
 The paper covered the topic I have been assigned, namely: "Awareness through signal/data reflection in the office using mobile sensors".
 
-### Abstract (from the Paper)
+### Abstract (taken out of the paper)
 Mobile sensor technology, such as wearables, has been growing and evolving in recent years. Despite this, HCI designers and companies, particularly in the fashion industry, have yet to improve on explicitly designing portable solutions; optimally so that they effectively support users in reflecting and raising awareness on issues, a challenge also relevant when designing sensor solutions for offices. As of now, HCI designs were found to focus on precision, accuracy of monitoring, and effectiveness of classification model training rather than on wearability, aesthetics and, comfort. A shift in design thinking is thus necessary to reach mass adoption: designing mobile sensor solutions so they can be integrated into conventional items, especially fashion products. By evaluating practical mobile solutions on their supportiveness of reflection and signal process- ing in the context of the office, this paper puts forward guidelines to help HCI designers conceptualize mobile solutions, specifically for the office environment.
 
 ## Contents
