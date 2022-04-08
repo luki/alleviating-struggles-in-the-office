@@ -16,10 +16,7 @@ Mobile sensor technology, such as wearables, has been growing and evolving in re
 |[Project topic pitch](/Suesslin_User-Awareness-through-Signal-Reflection-Office-Environment-Mobile-Sensors_Spr.pdf)|09 Nov 2021, 11:59pm|Yes|No|
 |[Project paper](/Suesslin_Alleviating-Struggles-at-the-Office_Pa.pdf)|04 Feb 2022, 11:59pm|See below|Accounts for 2/3 of final grade|
 |[Presentation of paper results](/Suesslin_Alleviating-Struggles-at-the-Office_FPr.pdf)|09 Nov 2021, 11:59pm|Yes|Accounts for 1/3 of final grade|
-|**Total**|||1.0 (perfect score)|
-
-## Final grade
-Pending
+|**Final grade**|||1.0 (perfect score)|
 
 ## Formalities 
 |||
